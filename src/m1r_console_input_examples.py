@@ -20,7 +20,7 @@ Authors: David Mutchler, Vibha Alangar, Matt Boutell, Dave Fisher,
 #   2. Write a line of code that would input an FLOAT from the console,
 #      storing the float in a variable called 'x'.
 #      Write your line here:
-#           x = float(input('type a real number')
+#           x = float(input('type a real number'))
 #   3. Write a line of code that would input an STRING from the console,
 #      storing the string in a variable called 'x'.
 #      Write your line here:
