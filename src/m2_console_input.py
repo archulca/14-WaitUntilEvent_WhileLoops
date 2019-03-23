@@ -67,7 +67,7 @@ def print_an_integer_many_times():
     # DONE: 3. Implement and test this function.
     #   The testing code is already written for you (above).
     # -------------------------------------------------------------------------
-    x = int(input('Enter a number: 3'))
+    x = int(input('Enter a number:'))
     for k in range (x):
         print(x*2)
 
@@ -133,7 +133,7 @@ def input_it_all():
     # DONE: 5. Implement and test this function.
     #   The testing code is already written for you (above).
     # -------------------------------------------------------------------------
-    x = float(input('Enter a positive floating point number::'))
+    x = float(input('Enter a positive floating point number:'))
     y = int(input('Enter a positive integer:'))
     z = input('Enter a string:')
     for k in range (y):
